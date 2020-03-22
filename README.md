@@ -7,7 +7,7 @@
  Project link: https://vanessa-wiedeman-cs.github.io/train-tracker/ 
  
 
-- Requirements: 
+- Requirements:  
 
   - Uses Firebase 
 
