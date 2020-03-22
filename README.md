@@ -7,16 +7,16 @@
  Project link: https://vanessa-wiedeman-cs.github.io/train-tracker/ 
  
 
-- Requirements:
+- Requirements: 
 
-  - Uses Firebase
+  - Uses Firebase 
 
   - Simple Front-end/UI using bootstrap 
 
-  - Quality coding standards using Prettier (indentation, scoping, naming)
+  - Quality coding standards using Prettier (indentation, scoping, naming) 
 
-  - Uses a table for information
+  - Uses a table for information 
 
-  - Deployed (GitHub Pages)
+  - Deployed (GitHub Pages) 
   
   
