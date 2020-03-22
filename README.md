@@ -15,8 +15,8 @@
 
   - Quality coding standards using Prettier (indentation, scoping, naming) 
 
-  - Uses a table for information 
+  - Uses a table for information  
 
-  - Deployed (GitHub Pages) 
+  - Deployed (GitHub Pages)  
   
   
