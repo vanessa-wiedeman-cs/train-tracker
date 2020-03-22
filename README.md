@@ -11,7 +11,7 @@
 
   - Uses Firebase
 
-  - Simple Front-end/UI using bootstrap
+  - Simple Front-end/UI using bootstrap 
 
   - Quality coding standards using Prettier (indentation, scoping, naming)
 
