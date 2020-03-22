@@ -2,7 +2,7 @@
 
 - Project Goal:  
 
-  - Build a train schedule website that lets you add trains to a schedule. 
+  - Build a train schedule website that lets you add trains to a schedule.  
   
  Project link: https://vanessa-wiedeman-cs.github.io/train-tracker/ 
  
