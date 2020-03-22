@@ -8,7 +8,7 @@
  
 
 - Requirements:    
- 
+  
   - Uses Firebase   
 
   - Simple Front-end/UI using bootstrap   
